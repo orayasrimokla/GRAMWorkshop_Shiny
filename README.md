@@ -5,7 +5,7 @@ This application was developed based on the model found here https://github.com/
 This app evaluates the cost-effectiveness of implementing an intervention (example with maintaining an active microbiology laboratory for blood culture testing in healthcare settings). The model uses a decision tree approach to compare strategies with and without active microbiology services.
 
 ### App files are found in in the CostEffectivenessAnalysis_Shiny folder.
-Run the app.R file to launch the app created for the practical_cea_decisiontree.R file
+In this folder, run the app.R file to launch the app created for the practical_cea_decisiontree.R file
 
 The app is also hosted online and can be found here: https://dashapps.shinyapps.io/C-E_Analysis/
 
